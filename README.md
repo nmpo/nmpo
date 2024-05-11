@@ -1,5 +1,7 @@
 ### Fala!
 
+Maioria dos projetos e estudos se encontram aqui.
+
 <!--github stats-->
 <div align="center" style="display: inline">
    <a href="https://github.com/nmpo">
