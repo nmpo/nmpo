@@ -6,7 +6,9 @@ Maioria dos projetos e estudos se encontram aqui.
 <div align="center" style="display: inline">
    <a href="https://github.com/nmpo">
    <div style="display: inline_block">
+      <!-- quebrado
       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nmpo&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+      -->
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmpo&layout=compact&langs_count=7&theme=dark"/>
    </div>
 </div>
